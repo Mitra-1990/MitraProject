@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 120,
+    "height" : 150
+  }, {
+    "width" : 240,
+    "height" : 300
+  }, {
+    "width" : 480,
+    "height" : 600
+  }, {
+    "width" : 960,
+    "height" : 1200
+  }, {
+    "width" : 1920,
+    "height" : 2400
+  }, {
+    "width" : 3840,
+    "height" : 4800
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 3840,
+  "@id" : "https://Mitra-1990.github.io/MitraProject/images/ingmar-h-uzmIpARNYE0-unsplash",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 4800
+}
