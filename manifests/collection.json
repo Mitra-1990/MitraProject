@@ -1,0 +1,13 @@
+{
+  "id" : "https://Mitra-1990.github.io/MitraProject/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in Mitra-1990/MitraProject project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Mitra-1990.github.io/MitraProject/manifests/manifest.json",
+    "label" : "Mitra"
+  } ]
+}
